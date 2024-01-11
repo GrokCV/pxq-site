@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: pxq
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xiuqing Pan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiuqing
+last_name: Pan
 
 # Status emoji
 status:
